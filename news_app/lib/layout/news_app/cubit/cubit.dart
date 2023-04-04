@@ -100,6 +100,7 @@ class NewsCubit extends Cubit<NewsStates> {
     }
   }
 
+  //test
   List<dynamic> science = [];
 
   void getScience() {
